@@ -1,4 +1,4 @@
-package com.big_hands.discordgame;
+package com.bighands.discordgame;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
